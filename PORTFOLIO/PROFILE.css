@@ -1,0 +1,240 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    }
+ 
+
+   
+header{
+    border-top-style:solid;
+    border-width: 6px 0px 1px 0px;
+   height: 60px;
+    width: 100%;
+   
+}
+
+.div-one{
+    padding: 10px;
+    width: 30%;
+    height: 80%;
+    margin-top: 1%;
+    }
+
+.div-two{
+    padding: 10px;
+    width: 65%;
+    height: 50px;;
+    margin-left: 50%;
+   
+
+}
+.div-one,div-two{
+    float: left;
+    margin-left: 20px;
+}
+
+.par-1{
+    color:black;
+    font-weight: 700;
+    line-height: 30px;
+    font-size: 25px;
+}
+.hr-one{
+    
+    margin-top: 5px;
+}
+
+    nav>ul{
+        
+        height:35px;
+        line-height:30px;
+        font-size: 20px;
+        margin-left: 70px;
+        }
+        li a:hover{
+            color:red;
+            
+
+        }
+
+        
+        nav>ul>li{
+        list-style:none;
+        float:left;
+        }
+        nav>ul>li>a{
+            text-decoration:none;
+            color: dodgerblue;
+           
+            font-size:17px;
+            padding: 65px;
+            }
+
+
+  article{
+               
+        height: 210px;
+        width: 80%;
+            }
+            .par-three{
+               margin-right: 850px;
+               font-size: 22px;
+               color:rgb(161, 153, 153);
+            }
+            .div-three{
+               
+              width: 40%;
+              height: 110%;
+            }
+            .div-four{
+            
+             width:110%;
+             height: 130%;
+            
+     
+             margin-right: 40px;
+           
+           
+            }
+            
+              
+            .btn1:focus{
+
+             outline: none;
+             }
+             .btn2:focus{
+
+                outline: none;
+                }
+
+             
+            .div-three,div-four{
+                float: left;
+            }
+            .img1{
+           width: 80%;
+           height: 60%;
+            }
+            .img1-1{
+                width: 50%;
+                height: 90%; 
+                margin-left: 170px;
+                border-radius: 300px;
+                margin-top: 30px;
+                
+            }
+           
+            .d5{
+               width: 30%;
+                height: 140%;
+                
+              }
+              .d6{
+             
+               width:30%;
+               height: 140%;;
+              
+              }
+              .d7{
+             
+                width:30%;
+                height: 140%;;
+                
+              }
+              .d5,.d6,.d7{
+                  float: left;
+                  margin-left: 30px;
+              }
+              .par-two{
+                  text-align: left;
+                  padding: 1%;
+                  line-height: 32px;
+                  font-weight: 400;
+                  font-size: 18px;
+                
+                 
+                 
+              }
+             
+
+
+              .btn1{
+                 background-color: rgb(27, 64, 173);
+                  border-radius: 25px;
+                  
+                  width: 20%;
+                  height: 15%;
+                  border:0;
+                  
+                  color: white;
+                  margin-left: 200px;
+                  margin-bottom: 100px;
+                  
+                
+              }
+              .btn2{
+                background-color: rgba(85, 93, 99, 0.137);
+                border-radius: 25px;
+                margin-right: 0px;
+                margin-left: 25px;
+                width: 20%;
+                height: 15%;
+                border:0;
+                color: rgb(33, 33, 119);
+                background-color: rgb(195, 198, 201);
+            }
+            .par-5{
+                color: rgb(161, 153, 153);
+                font-size: 12px;
+            }
+
+            .p2{
+                color: royalblue;
+                font-size: 20px;
+            }
+            .d8{
+                height: 100px;
+                width: 100%;
+                margin-top: 580px;
+                 border-bottom: 0;
+                 border-left: 0;
+                 border-top: 1px;
+                 border-right: 0;
+                 border-style:solid ;
+                 border-top-color:rgb(161, 153, 153);
+             
+               
+            }
+            
+          .d8 > p
+          {
+            
+            float: left;
+          }
+         
+          p{
+              font-size: 15px;
+              color:rgb(161, 153, 153);
+              font-weight: 50px;
+          }
+          .d8 > ul > li
+          {
+              list-style: none;
+              display: inline;
+              margin-left: 50px;
+              
+              
+          }
+           i{
+              color:#3498bd;
+             
+          }
+          span{
+              font-size: 13px;
+            font: bold;
+              font-family: 'Times New Roman', Times, serif;
+              color:black;
+          }
+
+         
